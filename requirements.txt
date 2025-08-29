@@ -1,3 +1,16 @@
 python-dotenv
 pandas
 numpy
+pymongo
+certifi
+
+
+
+
+
+# #Install your package locally.
+
+# Any changes you make in your source code are immediately reflected without reinstalling.
+
+# Useful for development, since you don’t need to keep re-installing after every edit.
+#-e .
